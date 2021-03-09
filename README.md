@@ -1,2 +1,2 @@
 # Temp
-check
+checkgit stat
